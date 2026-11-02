@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI & Me – Career check",
-  description: "See how AI might change your future career.",
+  title: "AI & Me",
+  description: "A friendly guide to AI and your future career.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
